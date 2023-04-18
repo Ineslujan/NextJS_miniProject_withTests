@@ -1,0 +1,26 @@
+h1.title {
+  font-size: 2rem;
+}
+
+h2.title {
+  font-size: 1.5rem;
+}
+
+.paragraph {
+  color: grey;
+}
+
+.oneLink {
+  color: blue;
+}
+
+.navBar {
+  display: flex;
+  justify-content: center;
+  column-gap: 1rem;
+}
+
+.card {
+  width: 400px;
+  border: 1px black solid;
+}
